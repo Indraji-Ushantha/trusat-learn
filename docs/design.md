@@ -5,25 +5,49 @@ sidebar_label: Design
 ---
 
 ## Contributing to TruSat's design
-TruSat community members are free to contribute to TruSat's strategy and design. Common cases might include proposing UX concepts or UI specifications. To join the discussion on the evolving design needs of TruSat, visit the [TruSat Discord Server](https://discord.gg/SC76Wph).
+TruSat community members are free to contribute to TruSat's strategy and 
+design. Common cases might include proposing UX concepts or UI specifications. 
+To join the discussion on the evolving design needs of TruSat, visit the 
+[TruSat Discord Server](https://discord.gg/SC76Wph).
 
-You may use your design tool of choice. TruSat’s initial designs were made via the free tier of Figma, a browser-based design tool.
+You may use your design tool of choice. TruSat’s initial designs were made via 
+the free tier of Figma, a browser-based design tool.
 
-Updates to TruSat’s design follow the same basic procedure as that of any other update to TruSat.
+Updates to TruSat’s design follow the same basic procedure as that of any other 
+update to TruSat.
 
 To propose a design update:
-- Create a new issue in [TruSat's frontend repo](https://github.com/consensys-space/trusat-frontend) 
-- Describe the problem that the design addresses, and how the design solves the problem.
-- Attach images of the design. When practical, also include a link to the original design file. 
+- Create a new issue in [TruSat's frontend repo]
+(https://github.com/consensys-space/trusat-frontend) 
+- Describe the problem that the design addresses, and how the design solves the 
+problem.
+- Attach images of the design. When practical, also include a link to the 
+original design file. 
 - Add the tag “design” to the issue, along with any other pertinent tags.
-- After publishing the issue, please add your design to the list of designs below, so that fellow design contributors can see all TruSat designs in one place.
+- After publishing the issue, please add your design to the list of designs 
+below, so that fellow design contributors can see all TruSat designs in one 
+place.
 
 ## TruSat design files
-Please add your designs to this list. Link to issues or files where applicable, but feel free to submit loose sketches and ideas too:
-- TruSat catalog beta — [Figma doc](https://www.figma.com/file/p8e16JtZ2vX8UEq6uN9HYa/TruSat---Beta-Master-Designs?node-id=650%3A2811)
-- Capture observations — [Concept images](https://docs.google.com/presentation/d/1JCeppogLCg3CWWcW85AEmiAlnRlNtmkuB3gD5xf85eM/edit#slide=id.g745d18b404_0_64) [Figma doc](https://www.figma.com/file/ZhuhQePQlZ3TuTbnlvcZjH/TruSat---Capture-Observations-UX?node-id=6%3A2915)
-- Submit observation images — [Figma doc](https://www.figma.com/file/LEL9dzD9uC3NRstzF26SF7/TruSat---Image-processing?node-id=0%3A1)
-- Campaigns spec — [Figma doc](https://www.figma.com/file/BNcXYcUE8yrixSxqmbPkrf/TruSat---8%2F20%2F19---Campaigns-feature-spec?node-id=0%3A1)
-- Single IOD entry form — [Figma doc](https://www.figma.com/file/8FNsDfgPeGA9aHu671Pf8o/TruSat---Single-IOD-Entry-Form-Design?node-id=0%3A1)
-- Location management – [issue](https://github.com/consensys-space/trusat-frontend/issues/183), [Figma doc](https://www.figma.com/file/9NUQvidxULhcwqf2H9j3ID/TruSat---Location-Management-Designs?node-id=0%3A1)
-- Catalog activity dashboard – [project](https://github.com/orgs/TruSat/projects/2), [Figma doc](https://www.figma.com/file/ARaij3ZCP7lb52zP1Io8Dj/TruSat---Catalog?node-id=24%3A3)
+Please add your designs to this list. Link to issues or files where applicable, 
+but feel free to submit loose sketches and ideas too:
+- TruSat catalog beta — [Figma doc](https://www.figma.com/file/
+p8e16JtZ2vX8UEq6uN9HYa/TruSat---Beta-Master-Designs?node-id=650%3A2811)
+- Capture observations — [Concept images](https://docs.google.com/presentation/
+d/1JCeppogLCg3CWWcW85AEmiAlnRlNtmkuB3gD5xf85eM/edit#slide=id.g745d18b404_0_64)
+[Figma doc](https://www.figma.com/file/ZhuhQePQlZ3TuTbnlvcZjH/
+TruSat---Capture-Observations-UX?node-id=6%3A2915)
+- Submit observation images — [Figma doc](https://www.figma.com/file/
+LEL9dzD9uC3NRstzF26SF7/TruSat---Image-processing?node-id=0%3A1)
+- Campaigns spec — [Figma doc](https://www.figma.com/file/
+BNcXYcUE8yrixSxqmbPkrf/
+TruSat---8%2F20%2F19---Campaigns-feature-spec?node-id=0%3A1)
+- Single IOD entry form — [Figma doc]
+(https://www.figma.com/file/8FNsDfgPeGA9aHu671Pf8o/
+TruSat---Single-IOD-Entry-Form-Design?node-id=0%3A1)
+- Location management – [issue](https://github.com/consensys-space/
+trusat-frontend/issues/183), [Figma doc](https://www.figma.com/file/
+9NUQvidxULhcwqf2H9j3ID/TruSat---Location-Management-Designs?node-id=0%3A1)
+- Catalog activity dashboard – [project](https://github.com/orgs/TruSat/
+projects/2), [Figma doc](https://www.figma.com/file/ARaij3ZCP7lb52zP1Io8Dj/
+TruSat---Catalog?node-id=24%3A3)
